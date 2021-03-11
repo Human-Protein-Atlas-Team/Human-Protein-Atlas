@@ -23,11 +23,14 @@
 
 ## 4.참고자료
 
-### 공유자-윤권찬님
-- Kaggle: https://www.kaggle.com/drcapa/human-protein-atlas-starter-keras    
-- 박진모님 자료(인간 단백질 구조 소스제공자): https://blog.estsoft.co.kr/727  
+### 공유자-윤권찬
+- 해당 문제 keras 예제소스: https://www.kaggle.com/drcapa/human-protein-atlas-starter-keras 
 - 단백질 구조분류(외국인 유튜브 결과보고 영상?) : https://youtu.be/bAgjqdQ0VE8  
 - 단백질 구조분류(분석 블로그) : https://www.nature.com/articles/s41592-019-0658-6  
+
+### 공유자-정운국
+- Kaggle Notebook 사용법(Dataset 로딩가능): https://teddylee777.github.io/kaggle/kaggle%EC%97%90%EC%84%9C-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-notebook-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0
+- X-ray 이미지 분류 예제(심플): https://towardsdatascience.com/deep-learning-for-detecting-pneumonia-from-x-ray-images-fc9a3d9fdba8
 
 
 
